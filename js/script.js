@@ -14,4 +14,4 @@ console.log(3*3=='9');
 
 const isChecked = true,
       isClose = true;
-console.log(isChecked && isClose)
+console.log(isChecked && isClose);
